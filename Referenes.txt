@@ -1,2 +1,0 @@
-https://machinelearningmastery.com/5-free-courses-mastering-llms/
-https://machinelearningmastery.com/the-beginners-guide-to-natural-language-processing-with-python/
