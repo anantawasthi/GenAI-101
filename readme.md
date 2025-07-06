@@ -20,9 +20,15 @@
 
 2. [Own a Rig](Personal-GenAI-Learning-Rig.md)
 
-
-
 Making a decision - [Points to Consider](selecting-a-platform.md)
+
+---
+
+#### Table of Content
+
+1. [Introduction to LLMs and It's Types](LLMs.md)
+
+2. [Stay Aligned to LLM Development Life Cycle](Aligned-to-LLM-Development-Lifecycle/Aligned-to-LLM-Development-Lifecycle.md)
 
 ---
 
