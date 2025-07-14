@@ -30,6 +30,8 @@ Making a decision - [Points to Consider](selecting-a-platform.md)
 
 2. [Stay Aligned to LLM Development Life Cycle](Aligned-to-LLM-Development-Lifecycle/Aligned-to-LLM-Development-Lifecycle.md)
 
+3. [Why Information Extraction Deserves Your Attention in the LLM Stack?](Information-Extraction-Techniques-for-LLM/readme.md)
+
 ---
 
 ⭐ **Show Your Support**
